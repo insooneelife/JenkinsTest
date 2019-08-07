@@ -1,0 +1,7 @@
+C:\Users\insooneelife2\source\repos\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.exe.config
+C:\Users\insooneelife2\source\repos\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.exe
+C:\Users\insooneelife2\source\repos\JenkinsTestProject\JenkinsTestProject\bin\Debug\JenkinsTestProject.pdb
+C:\Users\insooneelife2\source\repos\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.csprojAssemblyReference.cache
+C:\Users\insooneelife2\source\repos\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.csproj.CoreCompileInputs.cache
+C:\Users\insooneelife2\source\repos\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.exe
+C:\Users\insooneelife2\source\repos\JenkinsTestProject\JenkinsTestProject\obj\Debug\JenkinsTestProject.pdb
